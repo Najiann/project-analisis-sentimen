@@ -1,0 +1,15 @@
+google_play_scraper
+matplotlib.pyplot
+nltk
+nltk.corpus
+nltk.tokenize
+numpy
+pandas
+seaborn
+sklearn.ensemble
+sklearn.feature_extraction.text
+sklearn.linear_model
+sklearn.metrics
+sklearn.model_selection
+sklearn.naive_bayes
+sklearn.tree
